@@ -1,0 +1,24 @@
+{
+  "name": "@victorycto/camera-component",
+  "version": "1.0.1",
+  "description": "[![edit-in-WebComponents.dev](https://webcomponents.dev/assets/ext/edit_in_wcd.svg)](https://webcomponents.dev/edit/BkKYuvgcmACnDT7CRETQ)\r # LitElement Starter Kit",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoblet/camera-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anoblet/camera-component/issues"
+  },
+  "homepage": "https://github.com/anoblet/camera-component#readme",
+  "dependencies": {
+    "@material/mwc-button": "^0.15.0",
+    "lit-element": "^2.3.1"
+  }
+}
